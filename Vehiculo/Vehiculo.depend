@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1726193364 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\main.cpp
+	<vector>
+	<memory>
+	<Vehiculo.h>
+	<Auto.h>
+	<Motocicleta.h>
+	<Camion.h>
+	<Avion.h>
+	<Bicicleta.h>
+	<iostream>
+	<string>
+
+1726186005 c:\users\usuario\universidad\programacion\c++poo\vehiculo\include\vehiculo.h
+	<iostream>
+
+1726192751 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\src\vehiculo.cpp
+	"Vehiculo.h"
+	<iostream>
+	<cctype>
+
+1726186123 c:\users\usuario\universidad\programacion\c++poo\vehiculo\include\auto.h
+	<Vehiculo.h>
+
+1726192769 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\src\auto.cpp
+	"Auto.h"
+	"Vehiculo.h"
+
+1726193370 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\src\motocicleta.cpp
+	"Motocicleta.h"
+	"Vehiculo.h"
+
+1726189468 c:\users\usuario\universidad\programacion\c++poo\vehiculo\include\motocicleta.h
+	<Vehiculo.h>
+
+1726190954 c:\users\usuario\universidad\programacion\c++poo\vehiculo\include\camion.h
+	<Vehiculo.h>
+	<iostream>
+
+1726192626 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\src\camion.cpp
+	"Camion.h"
+	"Vehiculo.h"
+
+1726192789 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\src\avion.cpp
+	"Avion.h"
+	"Vehiculo.h"
+
+1726191966 c:\users\usuario\universidad\programacion\c++poo\vehiculo\include\avion.h
+	<Vehiculo.h>
+
+1726193345 source:c:\users\usuario\universidad\programacion\c++poo\vehiculo\src\bicicleta.cpp
+	"Bicicleta.h"
+	"Vehiculo.h"
+
+1726192868 c:\users\usuario\universidad\programacion\c++poo\vehiculo\include\bicicleta.h
+	<Vehiculo.h>
+
+1726193364 source:c:\users\usuario\documents\vehiculo\main.cpp
+	<vector>
+	<memory>
+	<Vehiculo.h>
+	<Auto.h>
+	<Motocicleta.h>
+	<Camion.h>
+	<Avion.h>
+	<Bicicleta.h>
+	<iostream>
+	<string>
+
+1726186005 c:\users\usuario\documents\vehiculo\include\vehiculo.h
+	<iostream>
+
+1726186123 c:\users\usuario\documents\vehiculo\include\auto.h
+	<Vehiculo.h>
+
+1726189468 c:\users\usuario\documents\vehiculo\include\motocicleta.h
+	<Vehiculo.h>
+
+1726190954 c:\users\usuario\documents\vehiculo\include\camion.h
+	<Vehiculo.h>
+	<iostream>
+
+1726191966 c:\users\usuario\documents\vehiculo\include\avion.h
+	<Vehiculo.h>
+
+1726192868 c:\users\usuario\documents\vehiculo\include\bicicleta.h
+	<Vehiculo.h>
+
+1726192789 source:c:\users\usuario\documents\vehiculo\src\avion.cpp
+	"Avion.h"
+	"Vehiculo.h"
+
+1726192626 source:c:\users\usuario\documents\vehiculo\src\camion.cpp
+	"Camion.h"
+	"Vehiculo.h"
+
+1726528961 source:c:\users\usuario\documents\vehiculo\src\vehiculo.cpp
+	"Vehiculo.h"
+	<iostream>
+	<cctype>
+
+1726193632 source:c:\users\usuario\documents\vehiculo\src\auto.cpp
+	"Auto.h"
+	"Vehiculo.h"
+
+1726193645 source:c:\users\usuario\documents\vehiculo\src\motocicleta.cpp
+	"Motocicleta.h"
+	"Vehiculo.h"
+
+1726528841 source:c:\users\usuario\documents\vehiculo\src\bicicleta.cpp
+	"Bicicleta.h"
+	"Vehiculo.h"
+	<iostream>
+
